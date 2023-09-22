@@ -55,7 +55,3 @@ To test the API, you can use tools like Postman or the provided Swagger document
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Made with ❤️ by Kashif Ali
